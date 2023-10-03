@@ -1,0 +1,22 @@
+{
+  "private": false,
+  "name": "nx-react-library-hooks",
+  "version": "0.2.0",
+  "description": "Shared hooks",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "gitHead": "75310b5a539bd0e8fb6206a15e2399e6bf9b1130"
+}
